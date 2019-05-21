@@ -24,7 +24,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-
 .icon-map-marker:before {
   content: "\e957";
 }
@@ -33,9 +32,6 @@
 }
 .icon-bars:before {
   content: "\e94e";
-}
-.icon-compare:before {
-  content: "\e951";
 }
 .icon-user:before {
   content: "\e938";
@@ -288,6 +284,9 @@
 }
 .icon-plus:before {
   content: "\e900";
+}
+.icon-compare:before {
+  content: "\e95c";
 }
 .icon-cart:before {
   content: "\e928";
