@@ -22,6 +22,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-phone:before {
+  content: "\e90e";
+}
 .icon-filter:before {
   content: "\e90d";
 }
@@ -93,9 +96,6 @@
 }
 .icon-map-marker:before {
   content: "\e957";
-}
-.icon-phone:before {
-  content: "\e949";
 }
 .icon-bars:before {
   content: "\e94e";
